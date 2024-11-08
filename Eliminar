@@ -1,0 +1,35 @@
+{
+  "_id": "req_e13fb735e3c849c89cea17f6cbc78494",
+  "authentication": {},
+  "body": {
+    "mimeType": "application/json",
+    "text": "{\n\t\"id\": 1\n}"
+  },
+  "created": 1731096655885,
+  "description": "",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "name": "User-Agent",
+      "value": "insomnia/10.1.1"
+    }
+  ],
+  "isPrivate": false,
+  "metaSortKey": -1731096655885,
+  "method": "PUT",
+  "name": "ELIMINAR",
+  "parameters": [],
+  "parentId": "wrk_4c0c761ce45b4e6a9e21817ddac5b911",
+  "pathParameters": [],
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingFollowRedirects": "global",
+  "settingRebuildPath": true,
+  "settingSendCookies": true,
+  "settingStoreCookies": true,
+  "type": "Request",
+  "url": "localhost:5501/api/registros"
+}
