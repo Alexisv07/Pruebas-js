@@ -1,0 +1,35 @@
+{
+  "_id": "req_65cf2a820091423aa6e11c9d11b75501",
+  "authentication": {},
+  "body": {
+    "mimeType": "application/json",
+    "text": ""
+  },
+  "created": 1731100208012,
+  "description": "",
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "name": "User-Agent",
+      "value": "insomnia/10.1.1"
+    }
+  ],
+  "isPrivate": false,
+  "metaSortKey": -1731096655785,
+  "method": "GET",
+  "name": "CONSULTAR",
+  "parameters": [],
+  "parentId": "wrk_4c0c761ce45b4e6a9e21817ddac5b911",
+  "pathParameters": [],
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingFollowRedirects": "global",
+  "settingRebuildPath": true,
+  "settingSendCookies": true,
+  "settingStoreCookies": true,
+  "type": "Request",
+  "url": "localhost:5501/api/registros"
+}
